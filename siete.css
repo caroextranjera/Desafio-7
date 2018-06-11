@@ -1,0 +1,17 @@
+.jumbotron {
+ background-image: url(images/2.jpg);
+ text-align: center;
+ color: white; 
+}
+
+.img-responsive{
+	width: 100%;
+	border-radius: 25px;
+}
+
+.col {
+	text-align: center;
+	border: 2px solid gray;
+	border-radius: 25px;
+ }
+
